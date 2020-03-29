@@ -1,6 +1,6 @@
-# Docker in Docker based Debian Jessie
+# Docker in Docker based Debian
 
-A Docker image containing Docker and based on Debian Jessie.
+A Docker image containing Docker and based on Debian.
 
 Official `docker:dind` is using alpine and no Debian variant exists. Here's one.
 This work is based on https://github.com/domofactor/dind-jessie.

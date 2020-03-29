@@ -1,4 +1,4 @@
-FROM debian:jessie-slim
+FROM debian:stretch-slim
 
 ARG DOCKER_CHANNEL=stable
 ARG DOCKER_VERSION=18.06.3~ce~3-0~debian
